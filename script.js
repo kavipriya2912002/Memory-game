@@ -49,7 +49,7 @@ function buildBoxes(color)
             activeBox=null;
             revealCount+=2;
             if(revealCount===boxLength){
-                alert("Congratulations!😍 YOu Won!🎉 Refresh to play again");
+                alert("CONGRATULATIONS!😍 You WON!🎉 Refresh to play again");
             }
             return;
         }
